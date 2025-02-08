@@ -4,7 +4,7 @@ This project was created by converting a Figma design into a fully responsive we
 
 ## Design Source
 
-The design for this website was provided in Figma. You can see the original design [here]([insert Figma link if available](https://www.figma.com/community/file/1133800374992117329/landing-page-for-a-book)).
+The design for this website was provided in Figma. You can see the original design ([here](https://www.figma.com/community/file/1133800374992117329/landing-page-for-a-book)).
 
 ## Technologies Used
 - HTML5
